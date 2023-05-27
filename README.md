@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there! 😄
 Welcome to my github! I'm a software engineer, fantasy book enthusiast, and practicing Buddhist bringing a creative approach to a technical field.  I'm currently working on my text based based adventure game, Adventures of Nora the Neurotic Panda, and mastering the scarier problems on leetcode.  Reach out if you want to collaborate on a project, I love working on projects with others.
 
 <!--
