@@ -1,5 +1,5 @@
 ### Hi there! 😄
-Welcome to my github! I'm a software engineer, fantasy book enthusiast, and practicing Buddhist -- aiming to bring a creative approach to a technical field.
+Welcome to my github! I'm a software engineer, fantasy book enthusiast, video game nerd, and practicing Buddhist -- aiming to bring a creative approach to a technical field.
 
 I'm currently working on re-deploying an old project, Coffee Tycoon, and mastering the harder problems on leetcode.  Reach out if you want to collaborate, I love working on projects with others.
 
