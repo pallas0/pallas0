@@ -1,5 +1,5 @@
 ### Hi there! 😄
-Welcome to my github! I'm a software engineer, fantasy book enthusiast, video game nerd, and practicing Buddhist -- aiming to bring a creative approach to a technical field.
+Welcome to my github! I'm a software engineer, video game nerd, and practicing Buddhist -- aiming to bring a creative approach to a technical field.
 
 I'm currently working on a Diner Dash style browser game, and mastering the harder problems on leetcode.
 
