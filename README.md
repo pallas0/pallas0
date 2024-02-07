@@ -1,7 +1,6 @@
 ### Hi there! 😄
 Welcome to my github! I'm a software engineer, fantasy book enthusiast, video game nerd, and practicing Buddhist -- aiming to bring a creative approach to a technical field.
 
-I'm currently working on a implementing live game play in one of my projects, and mastering the harder problems on leetcode.
 
 <!--
 **pallas0/pallas0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
